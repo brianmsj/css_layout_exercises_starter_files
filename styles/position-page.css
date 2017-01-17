@@ -22,9 +22,17 @@ nav .logo {
 
 nav ul{
   display: inline-block;
-  
+  list-style: none;
+}
+nav li {
+  display: inline-block;
 }
 
+nav li::after{
+  content: "|";
+  margin-left: 5px;
+
+}
 
 .box {
   position: relative;
