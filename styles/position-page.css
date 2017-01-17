@@ -1,5 +1,7 @@
 
-
+body {
+  background: url("images/outerspace_landscape.jpeg") no repeat;
+  background-size: cover;}
 nav {
   position: fixed;
   top: 0;
@@ -26,6 +28,7 @@ nav ul{
 }
 nav li {
   display: inline-block;
+  margin left: 10px;
 }
 
 nav li::after{
