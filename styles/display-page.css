@@ -1,5 +1,5 @@
 main
-{ padding: 30px;
+{
   font-size: 0px;
 }
 
@@ -27,21 +27,17 @@ main
 
 .box_third
 {height: 300px;
- width: 33.33;
-}
+ width: 33.33%;}
 .green
 {
-  background-color: green;
-}
+  background-color: green;}
 
 .blue
 {
-  background-color: blue;
-
-}
+  background-color: blue;}
 
 .grey
-{background-color: blue;}
+{background-color: grey;}
 
 .black
 {background-color: black;}
