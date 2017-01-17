@@ -9,6 +9,23 @@ nav {
   padding-left: 60px;
   background-color: grey;
 }
+nav .logo {
+  position: absolute;
+  height: 50px;
+  border-radius: 50%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  vertical-align: middle;
+  border: 1px solid black;
+}
+
+nav ul{
+  display: inline-block;
+  
+}
+
+
 .box {
   position: relative;
   width: 600px;
