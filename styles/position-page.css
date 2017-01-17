@@ -18,3 +18,19 @@ nav {
   margin-right: auto;
   margin-top: 200px;
 }
+
+.cat, .dog {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+
+}
+.cat {
+  top: -100px;
+  left: -100px;
+
+}
+.dog {
+  bottom: -100px;
+  right: -100px;
+}
