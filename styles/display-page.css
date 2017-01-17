@@ -1,6 +1,5 @@
 main
 {
-  font-size: 0px;
 }
 
 .boxparent
@@ -28,12 +27,10 @@ main
 .box_third
 {height: 300px;
  width: 33.33%;}
-.green
-{
+.green {
   background-color: green;}
 
-.blue
-{
+.blue {
   background-color: blue;}
 
 .grey
