@@ -10,3 +10,18 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+.image1, .image2{
+  margin-top: 20px
+  margin-bottom: 20px
+}
+.image1{
+  float: left;
+  margin-right: 15px;
+
+}
+
+.image2 {
+  float: right;
+  margin-left: 15px;
+
+}
